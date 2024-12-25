@@ -18,7 +18,7 @@ export default function RootLayout({
     <html lang="pt-BR">
       <body className="bg-neutral-900 text-white flex flex-col min-h-screen">
         {/* Cabeçalho fixo */}
-        <Header />
+        <Header />git
 
         {/* Conteúdo principal */}
         <main className="flex-grow max-w-screen-xl mx-auto px-4 py-8">
