@@ -45,7 +45,7 @@ export default function Footer() {
             </a>
           </div>
           <p className="text-gray-400 mt-2">
-            © 2035 Por Daniel. <br className="md:hidden" />
+            © 2024 Por Daniel. <br/>
             Orgulhosamente criado com Next.js.
           </p>
         </div>

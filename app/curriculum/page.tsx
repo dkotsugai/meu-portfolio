@@ -31,9 +31,9 @@ export default function CurriculumPage() {
           <h2 className="text-xl font-semibold mb-4">Educação</h2>
           <div className="space-y-6">
             <div>
-              <h3 className="font-bold">2020 - 2024 | Nome da Instituição</h3>
+              <h3 className="font-bold">2023 | Fatec - SJC</h3>
               <p className="text-gray-300">
-                Bacharelado em Ciência da Computação (por exemplo).
+                Banco de Dados 
               </p>
             </div>
           </div>
