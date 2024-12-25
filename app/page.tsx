@@ -13,7 +13,7 @@ export default function HomePage() {
           className="object-cover"
         />
       </div>
-      <h1 className="text-4xl font-bold mb-2 text-white">Olá!</h1>
+      <h1 className="text-5xl font-bold mb-2 text-white">Olá!</h1>
       <p className="max-w-md text-gray-300">
         Eu sou o Daniel, um desenvolvedor apaixonado por criar e resolver
         desafios de programação. Este é o meu espaço para compartilhar um pouco

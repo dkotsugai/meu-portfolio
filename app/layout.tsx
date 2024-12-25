@@ -1,5 +1,6 @@
 import { ReactNode } from "react";
 import "./globals.css";
+import Footer from "@/components/Footer";
 
 export const metadata = {
   title: "Daniel - Portfólio",
@@ -44,10 +45,7 @@ export default function RootLayout({
         </main>
 
         {/* Rodapé fixo */}
-        <footer className="border-t border-gray-700 py-8 text-center text-sm text-gray-400">
-          <p>&copy; {new Date().getFullYear()} Por Daniel.</p>
-          <p className="mt-1">Orgulhosamente criado com Next.js 13</p>
-        </footer>
+        <Footer />
       </body>
     </html>
   );
