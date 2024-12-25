@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function HomePage() {
   return (
-    <section className="flex flex-col items-center justify-center min-h-screen text-center">
+    <section className="flex flex-col items-center justify-center  text-center">
       {/* Foto de Perfil (placeholder) */}
       <div className="flex justify-center items-center mt-8 mb-6 w-48 h-48 rounded-full overflow-hidden">
         <Image
